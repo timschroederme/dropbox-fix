@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/dropbox-fix
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[de_DE]=dropbox-fix
+Name=dropbox-fix
+Comment[de_DE]=
+Comment=
