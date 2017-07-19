@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Exec=/usr/bin/dropbox-fix
+Exec=dbus-launch dropbox start -i
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
 Name[de_DE]=dropbox-fix
-Name=dropbox-fix
+Name=dropbox
 Comment[de_DE]=
 Comment=
