@@ -1,6 +1,6 @@
 # dropbox-fix
 
-This project fixes the issue that the Dropbox system tray icon will not be properly displayed on Ubuntu. The fix is based upon [this discussion](https://askubuntu.com/questions/732816/xubuntu-dropbox-icon-fail).
+This project fixes the issue that the Dropbox system tray icon will not be properly displayed on Ubuntu. The fix is based upon [this discussion](https://askubuntu.com/questions/732816/xubuntu-dropbox-icon-fail). x
 
 ## Deployment
 
