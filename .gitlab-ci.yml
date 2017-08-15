@@ -1,4 +1,4 @@
 deploy:
  stage: deploy
  script:
-   - git push origin git@github.com:timschroedernet/dropbox-fix.git HEAD:refs/heads/master
+   - git push origin git@github.com:timschroedernet/dropbox-fix.git
